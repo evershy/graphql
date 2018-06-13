@@ -20,9 +20,9 @@ The tutorial use Koa, a expressive HTTP middleware framework for node.js, to run
 
 ##### dependencies
 
-* Koa：Expressive middleware for node.js using ES2017 async functions
-* koa-router：Router middleware for koa.
-* koa-bodyparser：A body parser for koa
+* [Koa](https://github.com/koajs/koa)：Expressive middleware for node.js using ES2017 async functions
+* [koa-router](https://github.com/alexmingoia/koa-router)：Router middleware for koa.
+* [koa-bodyparser](https://github.com/koajs/bodyparser)：A body parser for koa
 * graphql
 * apollo-server-koa
 * mongoose
