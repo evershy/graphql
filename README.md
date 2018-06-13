@@ -6,7 +6,7 @@ A tutorial of GraphQL with Node.js &amp; Koa &amp; MongoDB
 Checkout this repository:
 
 ```javascript
-git checkout https://github.com/evershy/graphql.git
+git clone https://github.com/evershy/graphql.git
 ```
 Install dependencies and devDependencies:
 
