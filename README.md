@@ -32,6 +32,8 @@ The tutorial use Koa, a expressive HTTP middleware framework for node.js, to run
 * [nodemon](https://github.com/remy/nodemon): Monitor for any changes in your node.js application and automatically restart the server - perfect for development.
 
 
+## License
 
+MIT
 
 
