@@ -1,0 +1,7 @@
+node_modules/
+.rewrite
+TODO
+.DS_Store
+.idea/
+*.log
+*.conf
